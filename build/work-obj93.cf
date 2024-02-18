@@ -1,0 +1,13 @@
+v 4
+file / "/run/media/danny/8E96D53A96D5238D/DLD/New Folder (2)/danny/project/tb_vending.vhd" "8ea44e4f79bff03c14b91b99d06ef0e270f88a8f" "20240216115725.829":
+  entity tb_vending at 1( 0) + 0 on 781;
+  architecture logic of tb_vending at 7( 78) + 0 on 782;
+file / "/run/media/danny/8E96D53A96D5238D/DLD/New Folder (2)/danny/project/build/adder.vhd" "27ff25e769c5391f7669a8abd4e9abdf4b7d20ce" "20240216115725.769":
+  entity adder at 1( 0) + 0 on 777;
+  architecture behavioral of adder at 19( 305) + 0 on 778;
+file / "/run/media/danny/8E96D53A96D5238D/DLD/New Folder (2)/danny/project/build/simple_adder.vhd" "fece1b629ba93574b34ba3555c62c10856242e66" "20240216115725.753":
+  entity simple_adder at 1( 0) + 0 on 775;
+  architecture behavioral of simple_adder at 12( 148) + 0 on 776;
+file / "/run/media/danny/8E96D53A96D5238D/DLD/New Folder (2)/danny/project/build/vending.vhd" "7531a79d620517f89d7d022754066ea43c16df6b" "20240216115725.795":
+  entity vending at 1( 0) + 0 on 779;
+  architecture behavioral of vending at 13( 391) + 0 on 780;
